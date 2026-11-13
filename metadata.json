@@ -1,0 +1,6 @@
+{
+  "name": "CurioTube",
+  "description": "Personalised educational video platform with a strict channel whitelist for Curiosity & Knowledge and Sri Lankan G.C.E. A/L learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
